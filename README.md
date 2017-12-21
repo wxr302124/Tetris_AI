@@ -1,6 +1,8 @@
 # Tetris_AI
 俄罗斯方块AI
 
+on 2017.4
+
 •	Homework of Java Programming
 
 •	Project Overview:
