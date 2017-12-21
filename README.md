@@ -4,6 +4,7 @@
 •	Homework of Java Programming
 
 •	Project Overview:
+
 A powerful AI which automatically plays Tetris. Noted that the framework of this Tetris game had already provided by my teacher.
 
 •	Project Features:
